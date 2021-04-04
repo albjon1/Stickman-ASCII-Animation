@@ -1,15 +1,12 @@
 import os
 import time
 os.system('cls')
-fileNames = ["frame_1", "frame_2",
-             "frame_3", "frame_4",
-             "frame_5", "frame_6",
-             "frame_7", "frame_8",
-             "frame_9", "frame_10",
-             "frame_11", "frame_12",
-             "frame_13", "frame_14",
-             "frame_15", "frame_16",
-             "frame_17", "frame_18"]
+fileNames = ["frame_1", "frame_2", "frame_3",
+             "frame_4", "frame_5", "frame_6",
+             "frame_7", "frame_8", "frame_9",
+             "frame_10", "frame_11", "frame_12",
+             "frame_13", "frame_14", "frame_15",
+             "frame_16", "frame_17", "frame_18"]
 framesList = []
 
 for name in fileNames:
