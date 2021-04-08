@@ -1,2 +1,4 @@
 # Stickman_ASCII_Animation
-ASCII animation of a stick man doing a cartwheel
+ASCII animation of a stick man doing a cartwheel.
+#
+Run in PowerShell/CMD
